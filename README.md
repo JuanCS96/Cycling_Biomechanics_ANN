@@ -23,3 +23,7 @@ Recurrent Neural Networks to predict pedal forces and lower limb net joint momen
 <br>
 
 See the example [Python code](https://github.com/JuanCS96/Cycling_Biomechanics_ANN/blob/main/RNN_cycling_predictions.py) to perform predictions.
+
+If you use this code, please cite the article associated with this study:
+
+- Cordero-Sánchez, J., Bini, R., Serrancolí, G. Validity of recurrent neural networks to predict pedal forces and lower limb kinetics in cycling. *Journal of Biomechanics* 183. 2025. 112619. https://doi.org/10.1016/j.jbiomech.2025.112619.
